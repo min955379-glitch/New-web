@@ -1,0 +1,6 @@
+{
+  "name": "Culinaire Lens - Virtual Food Photographer",
+  "description": "Transform restaurant menus into Michelin-grade, studio-lit food photography with style toggles, 1K-4K resolution, and AI retouching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
